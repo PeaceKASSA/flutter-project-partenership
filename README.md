@@ -1,1 +1,1 @@
-# flutter-project-partenership
+# flutter-project-partnership
